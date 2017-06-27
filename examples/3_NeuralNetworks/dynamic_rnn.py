@@ -4,9 +4,6 @@ TensorFlow library. This example is using a toy dataset to classify linear
 sequences. The generated sequences have variable length.
 
 Long Short Term Memory paper: http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
-
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
 '''
 
 from __future__ import print_function
